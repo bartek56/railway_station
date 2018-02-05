@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/StacjaKolejowa/v15
+/.vs
 /StacjaKolejowa/bin/Debug
 /StacjaKolejowa/obj/Debug/TempPE
 /StacjaKolejowa/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
