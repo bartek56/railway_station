@@ -6,4 +6,4 @@ libraries were used:
 - NModbus4
 - WPF
 
-Application use in MVC pattern.
+The application was written according to the MVC pattern.
